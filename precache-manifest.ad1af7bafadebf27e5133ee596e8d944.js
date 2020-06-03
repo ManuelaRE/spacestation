@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d70442ab0aee75ba091429b8cbeb86e",
+    "revision": "50e873fa51ff2423542c8a7309c5e698",
     "url": "/spacestation/index.html"
   },
   {
